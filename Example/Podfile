@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'STTableViewComponent_Example' do
+  pod 'STTableViewComponent', :path => '../'
+
+  target 'STTableViewComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

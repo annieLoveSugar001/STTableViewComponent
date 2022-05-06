@@ -1,0 +1,22 @@
+{
+  "name": "STTableViewComponent",
+  "version": "0.1.0",
+  "summary": "A short description of STTableViewComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/annieLoveSugar001/STTableViewComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "annieLoveSugar001": "annielovesugar001@163.com"
+  },
+  "source": {
+    "git": "https://github.com/annieLoveSugar001/STTableViewComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "STTableViewComponent/Classes/**/*"
+}

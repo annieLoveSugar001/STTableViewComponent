@@ -1,0 +1,16 @@
+PODS:
+  - STTableViewComponent (0.1.0)
+
+DEPENDENCIES:
+  - STTableViewComponent (from `../`)
+
+EXTERNAL SOURCES:
+  STTableViewComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STTableViewComponent: d7fd1ab7f53b8834a1c8bbf7fdcfb09a6efbe7db
+
+PODFILE CHECKSUM: b9f21fa19d52bc9b98ed6930d5913d7980aa3ad2
+
+COCOAPODS: 1.11.2
